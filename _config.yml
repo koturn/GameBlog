@@ -1,0 +1,12 @@
+# Site settings
+title: Koturn's Game Blog
+encoding: utf-8
+email: jeak.koutan.apple@gmail.com
+description: >
+  プレイしたゲームについて感想を語るブログ
+baseurl: "/GameBlog"
+url: "http://koturn.github.io"
+twitter_username: koturn
+github_username: koturn
+timezone: UTC
+markdown: redcarpet
